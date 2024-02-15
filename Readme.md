@@ -4,6 +4,6 @@
 2. Change into your proyect directory: cd deadants
 
 #Usage
-Install node.js
--pkg install nodejs
-Run the code: node deadAnts.js
+1. Install node.js
+2. pkg install nodejs
+3. Run the code: node deadAnts.js
